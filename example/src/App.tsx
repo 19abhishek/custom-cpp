@@ -3,7 +3,7 @@ import * as React from 'react';
 import { StyleSheet, View, Text } from 'react-native';
 import { multiply } from 'react-native-custom-cpp';
 
-const result = multiply(3, 7);
+const result = multiply(3, 4);
 
 export default function App() {
   return (
